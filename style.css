@@ -135,6 +135,10 @@ footer p {
   padding: 20px;
 }
 
+footer a:hover {
+  font-weight: bold;
+}
+
 
 
     
